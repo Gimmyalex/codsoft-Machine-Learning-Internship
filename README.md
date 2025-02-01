@@ -4,7 +4,7 @@ This repository documents my journey through the Machine Learning internship at 
 
 ## Internship Details
 - **Internship Provider:** Codesoft
-- **Duration:** [Specify Duration]
+- **Duration:** Jan. 2025 - Feb 2025
 - **Scope:** Solving machine learning challenges
 - **Technologies Used:** Python, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, and other ML libraries
 
@@ -45,7 +45,7 @@ This repository documents my journey through the Machine Learning internship at 
    ```
 2. Navigate to the project folder:
    ```sh
-   cd ML-Internship-Codesoft
+   cd codsoft-Machine-Learning-Internship
    ```
 3. Install dependencies:
    ```sh
